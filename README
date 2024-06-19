@@ -1,0 +1,14 @@
+# Traducteur de Langues
+
+Ce projet est une application de traduction de langues en Python utilisant `tkinter` pour l'interface graphique et `googletrans` pour les traductions.
+
+## Installation
+
+Clonez le dépôt et installez les dépendances :
+
+```bash
+git clone <url-du-repo>
+cd translator
+pip install -r requirements.txt
+pip install googletrans==4.0.0-rc1
+

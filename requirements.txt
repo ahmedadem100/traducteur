@@ -1,0 +1,5 @@
+ `requirements.txt` pour les dépendances** :
+```plaintext
+tk
+googletrans==4.0.0-rc1
+
